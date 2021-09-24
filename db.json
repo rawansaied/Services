@@ -1,0 +1,18 @@
+[
+  
+   {"id": 1,
+    "name":"orthodontics ",
+   "img": 2131165295
+ 
+},
+  {
+    "id": 2,
+    "name": "Dental checkup",
+    "img": 2131165296
+  },
+  {
+    "id": 3,
+    "name": "Dental crown",
+    "img":2131165294
+ }
+]
