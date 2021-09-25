@@ -1,23 +1,31 @@
 {
   "Services":[
    {"id": 1,
-    "name":"orthodontics ",
+    "name":"Dental Checkup ",
    "img": 2131165295
  
 },
   {
     "id": 2,
-    "name": "Dental checkup",
+    "name": "Dental Crown",
     "img": 2131165296
   },
   {
     "id": 3,
-    "name": "Dental crown",
+    "name": "Tooth Implant",
     "img":2131165294
   },
     {
     "id": 4,
-    "name": "Dental crown",
+    "name": "Dental Care",
+    "img":2131165294
+  }, {
+    "id": 5,
+    "name": Teeth Polishing",
+    "img":2131165294
+  }, {
+    "id": 6,
+    "name": "Orthodontic Installation",
     "img":2131165294
   }
  ]
